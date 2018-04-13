@@ -1,0 +1,2 @@
+D:\GIT\HTML/*
+!D:\GIT\HTML/S1.txt
